@@ -1,4 +1,5 @@
-### Hi there 👋
+### SHUBHAM MOHAPATRA
+## Embedded Hardware Design Engineer
 
 <!--
 **ShuBot/SHuBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
