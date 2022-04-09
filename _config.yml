@@ -4,4 +4,4 @@ plugins:
 #theme: jekyll-theme-cayman
 title: Shubham's Potfolio
 description: These are all my previous and current projects.
-show_downloads: [true]
+show_downloads: [false]
