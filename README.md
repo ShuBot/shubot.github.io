@@ -51,11 +51,11 @@ You can find all these designs here: [Appiko](https://github.com/Appiko/sense_sn
 ##### My Current Projects:
 
 - BMS Design
-- ![BMS Design](https://github.com/ShuBot/ShuBot.github.io/blob/234b634a0d6270e75e5b9fb820b46adfb3b4fd0b/img/BMS_02.JPG)
+- ![BMS Design](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/BMS_02.JPG)
 
  - BLDC Motor Driver
- - ![BLDC Motor Driver](https://github.com/ShuBot/ShuBot.github.io/blob/234b634a0d6270e75e5b9fb820b46adfb3b4fd0b/img/BLDC_Driver_ckt.JPG)
- - ![BLDC Motor Driver PS](https://github.com/ShuBot/ShuBot.github.io/blob/1b8bf2b936933fd27246c1e47c8c495c844609bd/img/BLDC_Drive_04.JPG)
+ - ![BLDC Motor Driver](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/BLDC_Driver_ckt.JPG)
+ - ![BLDC Motor Driver PS](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/BLDC_Drive_04.JPG)
 
 
 
