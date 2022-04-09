@@ -1,4 +1,4 @@
-## Shubham's Portfolio
+## Shubham Mohapatra
 ### Embedded Hardware Design Engineer
 #### Skillets
 ##### Hardware Design
@@ -23,8 +23,9 @@
 
 ### Some of my PCB Designs
 ##### Open Source Hardware Designs:
-- IR Motion Sensor used with DSLR Cameras
-- ![IR Motion Sensor used with DSLR Cameras](https://github.com/ShuBot/ShuBot.github.io/blob/main/pics/appiko_01.jpg)
+
+![IR Motion Sensor used with DSLR Cameras](https://github.com/ShuBot/ShuBot.github.io/blob/main/pics/appiko_01.JPG)
+
 - High Power IR LED Controller
 - ![High Power IR LED Controller](https://github.com/ShuBot/ShuBot.github.io/blob/main/pics/appiko_02.jpg)
 - Long Range RF Transmitter
