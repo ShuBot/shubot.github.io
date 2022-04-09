@@ -24,7 +24,7 @@
 ### Some of my PCB Designs
 ##### Open Source Hardware Designs:
 
-![IR Motion Sensor used with DSLR Cameras](https://github.com/ShuBot/ShuBot.github.io/blob/234b634a0d6270e75e5b9fb820b46adfb3b4fd0b/img/appiko_01.JPG)
+![IR_Motion_Sensor_used_with_DSLR_Cameras](https://github.com/ShuBot/ShuBot.github.io/blob/234b634a0d6270e75e5b9fb820b46adfb3b4fd0b/img/appiko_01.JPG)
 
 - High Power IR LED Controller
 - ![High Power IR LED Controller](https://github.com/ShuBot/ShuBot.github.io/blob/234b634a0d6270e75e5b9fb820b46adfb3b4fd0b/img/appiko_02.JPG)
