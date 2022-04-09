@@ -27,6 +27,7 @@
 - ![IR_Motion_Sensor_used_with_DSLR_Cameras](https://github.com/ShuBot/ShuBot.github.io/blob/234b634a0d6270e75e5b9fb820b46adfb3b4fd0b/img/appiko_01.JPG)
 - ![test 1](https://github.com/ShuBot/ShuBot.github.io/blob/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/appiko_01.JPG)
 - ![test2](https://github.com/ShuBot/ShuBot.github.io/blob/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/appiko_01.JPG)
+- ![test3](https://github.com/ShuBot/ShuBot.github.io/blob/main/img/appiko_01.JPG)
 - High Power IR LED Controller
 - ![High Power IR LED Controller](https://github.com/ShuBot/ShuBot.github.io/blob/234b634a0d6270e75e5b9fb820b46adfb3b4fd0b/img/appiko_02.JPG)
 - Long Range RF Transmitter
