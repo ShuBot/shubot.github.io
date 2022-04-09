@@ -53,7 +53,7 @@ You can find all these designs here: [Appiko](https://github.com/Appiko/sense_sn
 
  - BLDC Motor Driver
  - ![BLDC Motor Driver](https://github.com/ShuBot/ShuBot.github.io/blob/main/pics/BLDC_Driver_ckt.jpeg)
- - ![BLDC Motor Driver PS](https://github.com/ShuBot/ShuBot.github.io/blob/main/pics/BLDC_Drive_04.jpg)
+ - ![BLDC Motor Driver PS](https://github.com/ShuBot/ShuBot.github.io/blob/main/img/BLDC_Drive_04.JPG)
 
 
 
