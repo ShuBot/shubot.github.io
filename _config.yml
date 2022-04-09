@@ -5,3 +5,5 @@ plugins:
 title: Shubham's Potfolio
 description: These are all my previous and current projects.
 show_downloads: [false]
+
+theme: jekyll-theme-merlot
