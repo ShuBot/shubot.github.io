@@ -21,8 +21,8 @@
  - Experience with MCU/Processors: ESP32 Module, Raspberry Pi Zero, nRF52 Series BLE Module, Arduino Nano, Arduino Mega, STM32 Dev Board
  - Communication Protocols: I2C, SPI, UART, HTTP, MQTT
 
-**Some of my PCB Designs:**
-#### Open Source Hardware Designs:
+#### Some of my PCB Designs
+##### Open Source Hardware Designs:
 - IR Motion Sensor used with DSLR Cameras
 - ![IR Motion Sensor used with DSLR Cameras](https://github.com/ShuBot/ShuBot.github.io/blob/main/pics/appiko_01.jpg)
 - High Power IR LED Controller
@@ -34,7 +34,7 @@
 
 You can find all these designs here: [Appiko](https://github.com/Appiko/sense_snap_hw)
 
-#### Some Projects from my Previous jobs:
+##### Some Projects from my Previous jobs:
 
  - Weighing Scale with WiFi & BLE
  - ![Weighing Scale with WiFi & BLE](https://github.com/ShuBot/ShuBot.github.io/blob/main/pics/weighting_scale_01.jpg)
@@ -54,11 +54,11 @@ You can find all these designs here: [Appiko](https://github.com/Appiko/sense_sn
  - ![BLDC Motor Driver](https://github.com/ShuBot/ShuBot.github.io/blob/main/pics/BLDC_Driver_ckt.jpeg)
  - ![BLDC Motor Driver PS](https://github.com/ShuBot/ShuBot.github.io/blob/main/pics/BLDC_Drive_04.jpg)
 
-
+To know more about my work experience please find my resume [here](https://github.com/ShuBot/ShuBot.github.io/blob/main/docs/SHUBHAM_M_Sep2021.pdf).
 **Contact Details:** 
-Phone: +91 9778461774 
-Email: 01shubham10@gmail.com
-LinkedIn:  [Shubham Profile](https://www.linkedin.com/in/shubham-mohapatra-6034279a)
+- Phone: +91 9778461774
+- Email: 01shubham10@gmail.com
+- LinkedIn:  [Shubham Profile](https://www.linkedin.com/in/shubham-mohapatra-6034279a)
 
 
 
