@@ -24,7 +24,7 @@
 ### Some of my PCB Designs
 ##### Open Source Hardware Designs:
 - IR Motion Sensor used with DSLR Cameras
-- ![IR Motion Sensor used with DSLR Cameras](https://github.com/ShuBot/ShuBot.github.io/blob/main/pics/appiko_01.JPG)
+- ![IR Motion Sensor used with DSLR Cameras](https://github.com/ShuBot/ShuBot.github.io/blob/main/pics/appiko_01.jpg)
 - High Power IR LED Controller
 - ![High Power IR LED Controller](https://github.com/ShuBot/ShuBot.github.io/blob/main/pics/appiko_02.jpg)
 - Long Range RF Transmitter
@@ -54,7 +54,11 @@ You can find all these designs here: [Appiko](https://github.com/Appiko/sense_sn
  - ![BLDC Motor Driver](https://github.com/ShuBot/ShuBot.github.io/blob/main/pics/BLDC_Driver_ckt.jpeg)
  - ![BLDC Motor Driver PS](https://github.com/ShuBot/ShuBot.github.io/blob/main/pics/BLDC_Drive_04.jpg)
 
+
+
 To know more about my work experience please find my resume [here](https://github.com/ShuBot/ShuBot.github.io/blob/main/docs/SHUBHAM_M_Sep2021.pdf).
+
+
 **Contact Details:** 
 - Phone: +91 9778461774
 - Email: 01shubham10@gmail.com
