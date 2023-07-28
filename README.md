@@ -1,6 +1,6 @@
 ## Shubham Mohapatra
-### Embedded Hardware Design Engineer
-#### Skillets
+### Embedded Systems Engineer
+#### Skillset
 ##### Hardware Design
  - Rapid Prototyping
  - PCB & Schematic Design
@@ -19,7 +19,7 @@
  - Efficient in Languages: C, Micro-Python, Arduino(C++)
  - Experience with Platforms: ESP-IDF, Arduino, FreeRTOS, nRF SDK
  - Experience with MCU/Processors: ESP32 Module, Raspberry Pi Zero, nRF52 Series BLE Module, Arduino Nano, Arduino Mega, STM32 Dev Board
- - Communication Protocols: I2C, SPI, UART, HTTP, MQTT
+ - Communication Protocols: I2C, SPI, UART, HTTP, MQTT, BLE
 
 ### Some of my PCB Designs
 ##### Open Source Hardware Designs:
@@ -45,8 +45,6 @@ You can find all these designs here: [Appiko](https://github.com/Appiko/sense_sn
  - iot sensor power unit
  - ![iot sensor power unit](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/PDS_rev2_PCB01.JPG)
 
-##### My Current Projects:
-
 - BMS Design
 - ![BMS Design](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/BMS_02.JPG)
 
@@ -54,7 +52,10 @@ You can find all these designs here: [Appiko](https://github.com/Appiko/sense_sn
  - ![BLDC Motor Driver](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/BLDC_Driver_ckt.JPG)
  - ![BLDC Motor Driver PS](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/BLDC_Drive_04.JPG)
 
+##### My Current Projects:
 
+ - Gesture Recognition to control Raspberry Pi GPIOs, using high speed Camera.
+ - RGB LED Device controlled over WiFi and BLE using Andoid App.
 
 To know more about my work experience please find my resume [here](https://github.com/ShuBot/ShuBot.github.io/blob/main/docs/SHUBHAM_M_Sep2021.pdf).
 
