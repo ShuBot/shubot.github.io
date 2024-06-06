@@ -61,7 +61,6 @@ To know more about my work experience please find my resume [here](https://githu
 
 
 **Contact Details:** 
-- Phone: +91 9778461774
 - Email: 01shubham10@gmail.com
 - LinkedIn:  [Shubham Profile](https://www.linkedin.com/in/shubham-mohapatra-6034279a)
 
