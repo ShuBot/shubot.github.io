@@ -57,7 +57,7 @@ You can find all these designs here: [Appiko](https://github.com/Appiko/sense_sn
  - Gesture Recognition to control Raspberry Pi GPIOs, using high speed Camera.
  - RGB LED Device controlled over WiFi and BLE using Andoid App.
 
-To know more about my work experience please find my resume [here](https://github.com/ShuBot/ShuBot.github.io/blob/main/docs/SHUBHAM_M_Sep2021.pdf).
+To know more about my work experience please find my resume [here].
 
 
 **Contact Details:** 
