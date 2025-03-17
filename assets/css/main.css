@@ -592,6 +592,12 @@ section,
   line-height: 0;
 }
 
+.no-wrap {
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+}
+
 /*--------------------------------------------------------------
 # Stats Section
 --------------------------------------------------------------*/
