@@ -1,25 +1,23 @@
-## Shubham Mohapatra
+## [Shubham Mohapatra](https://shubot.github.io/)
 ### Embedded Systems Engineer
 #### Skillset
-##### Hardware Design
+
+##### Firmware Design & Development
+ - Programming Languages: C, Arduino(C++), Micro-Python
+ - Experience with Platforms: ESP-IDF, Arduino-IDE, FreeRTOS, nRF SDK, Cube IDE(STM32)
+ - Experience with MCU/MPU: ESP32 Family, Raspberry Pi Zero, nRF52 Series BLE Module, Arduino Nano, Arduino Mega, STM32 Dev Board
+ - Communication Protocols: I2C, SPI, UART, CAN, USB, HTTP, MQTT, BLE, WiFi
+
+##### Hardware Design & Development
  - Rapid Prototyping
  - PCB & Schematic Design
- - Digital & Analog Circuit Design
- - Experience with Platforms: Ki-CAD, Altium, EasyEDA
  - Hardware Testing (Bench-top and Field)
  - Hardware Debugging
  - Hardware Reverse Engineering
- - Soldering(SMD & TH)
- - 3D Model Designing
- - Technical Documentation
+ - Soldering
  - Component Selection & Procurement
- - Inventory Management
-
-##### Firmware Development
- - Efficient in Languages: C, Micro-Python, Arduino(C++)
- - Experience with Platforms: ESP-IDF, Arduino, FreeRTOS, nRF SDK
- - Experience with MCU/Processors: ESP32 Module, Raspberry Pi Zero, nRF52 Series BLE Module, Arduino Nano, Arduino Mega, STM32 Dev Board
- - Communication Protocols: I2C, SPI, UART, HTTP, MQTT, BLE
+ - Technical Documentation
+ 
 
 ### Some of my PCB Designs
 ##### Open Source Hardware Designs:
@@ -37,15 +35,15 @@ You can find all these designs here: [Appiko](https://github.com/Appiko/sense_sn
 ##### Some Projects from my Previous jobs:
 
  - ESP32 based Weighing Scale with WiFi & BLE:
- - ![Weighing Scale with WiFi & BLE](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/weighting_scale_01.JPG)
+	![Weighing Scale with WiFi & BLE](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/weighting_scale_01.JPG)
  - 2G/GSM powerd IoT sensor for Power Transmission Lines:
- - ![iot sensor for Electricity Transmission Lines](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/elcetricity_trsm_line_sensor_01.JPG)
+	![iot sensor for Electricity Transmission Lines](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/elcetricity_trsm_line_sensor_01.JPG)
  
 - 14 Cell Li-Ion Battery BMS:
-- ![BMS Design](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/BMS_02.JPG)
+	![BMS Design](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/BMS_02.JPG)
 
  - 48V BLDC Motor Driver:
- - ![BLDC Motor Driver PS](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/BLDC_Drive_04.JPG)
+ 	![BLDC Motor Driver PS](https://raw.githubusercontent.com/ShuBot/ShuBot.github.io/2fb0083cebe7c3ab467398ee26b39498a01f5715/img/BLDC_Drive_04.JPG)
 
 ##### My Current Projects:
 
